@@ -48,7 +48,7 @@ This technology would utilize their large language model alongside data and stru
 
 With the use of these technologies, which I believe they have already created the groundwork for, could help better humanity as a whole and accomplish their stated goal to ‘advance digital intelligence in the way that is most likely to benefit humanity as a whole.’
 
-—
+---
 
 ## Sources
 

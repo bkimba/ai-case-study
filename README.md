@@ -33,7 +33,6 @@ Competitors in the same field of AI research and development include AI21 Labs, 
 
 OpenAI revolutionized large language models with ChatGPT as a sensational and mainstream showcase of what AI can offer humanity. They have in a way, started the AI race and are a leading force within AI research and development. 
 
-What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 Popular classification metrics in AI research include, precision, recall, accuracy and F1 score. OpenAI’s ChatGPT’s precision in understanding what the user is asking is freakishly accurate, especially when the user has worded their inquiry in a more productive way that GPT understands. OpenAI performs well in this metric. Recall is a downfall of GPT. It is very confident in the answer it gives but sometimes can be wrong altogether. Accuracy, GPT is performing well in accuracy and only suffers from shortfalls in this category when user input isn't sufficient. F1 score is the harmonic mean of precision and recall. GPT scores well in this regard with the overall satisfaction of users scoring high.
 
 OpenAI is leading the charge in AI research and development with many strong competitors closely in tow.

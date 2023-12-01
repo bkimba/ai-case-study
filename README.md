@@ -1,4 +1,4 @@
-# ai-case-study# AI Case Study
+# AI Case Study
 
 ## Overview and Origin
 
